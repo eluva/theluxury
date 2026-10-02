@@ -1,0 +1,972 @@
+{
+  "categories": [
+    {
+      "id": "sneakers",
+      "name": {
+        "ru": "Кроссовки",
+        "uz": "Krossovkalar"
+      },
+      "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "classic",
+      "name": {
+        "ru": "Туфли",
+        "uz": "Tuflilar"
+      },
+      "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=900&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "boots",
+      "name": {
+        "ru": "Ботинки",
+        "uz": "Botinkalar"
+      },
+      "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=900&q=80&auto=format&fit=crop"
+    },
+    {
+      "id": "women",
+      "name": {
+        "ru": "Женское",
+        "uz": "Ayollar uchun"
+      },
+      "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?w=900&q=80&auto=format&fit=crop"
+    }
+  ],
+  "products": [
+    {
+      "id": "p01",
+      "sku": "LX-1001",
+      "name": "Runner Flyknit Red",
+      "category": "sneakers",
+      "collection": "sport",
+      "gender": "men",
+      "price": 1290000,
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 3
+        },
+        {
+          "size": "40",
+          "qty": 0
+        },
+        {
+          "size": "41",
+          "qty": 2
+        },
+        {
+          "size": "42",
+          "qty": 1
+        },
+        {
+          "size": "43",
+          "qty": 3
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 3
+        }
+      ],
+      "color": "Красный",
+      "material": "Текстиль Flyknit",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p02",
+      "sku": "LX-1002",
+      "name": "Court Suede Camel",
+      "category": "sneakers",
+      "collection": "premium",
+      "gender": "men",
+      "price": 1450000,
+      "images": [
+        "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 1
+        },
+        {
+          "size": "42",
+          "qty": 2
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 0
+        },
+        {
+          "size": "45",
+          "qty": 4
+        }
+      ],
+      "color": "Кэмел",
+      "material": "Натуральная замша",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом.",
+      "isNew": true
+    },
+    {
+      "id": "p03",
+      "sku": "LX-1003",
+      "name": "Volt Trainer",
+      "category": "sneakers",
+      "collection": "sport",
+      "gender": "unisex",
+      "price": 1190000,
+      "images": [
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "37",
+          "qty": 0
+        },
+        {
+          "size": "38",
+          "qty": 4
+        },
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 3
+        },
+        {
+          "size": "41",
+          "qty": 2
+        },
+        {
+          "size": "42",
+          "qty": 0
+        },
+        {
+          "size": "43",
+          "qty": 2
+        },
+        {
+          "size": "44",
+          "qty": 3
+        }
+      ],
+      "color": "Лайм",
+      "material": "Сетка, TPU",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом.",
+      "oldPrice": 1390000
+    },
+    {
+      "id": "p04",
+      "sku": "LX-1004",
+      "name": "Air Classic Coral",
+      "category": "sneakers",
+      "collection": "sport",
+      "gender": "men",
+      "price": 1350000,
+      "images": [
+        "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 1
+        },
+        {
+          "size": "40",
+          "qty": 2
+        },
+        {
+          "size": "41",
+          "qty": 1
+        },
+        {
+          "size": "42",
+          "qty": 1
+        },
+        {
+          "size": "43",
+          "qty": 2
+        },
+        {
+          "size": "44",
+          "qty": 3
+        },
+        {
+          "size": "45",
+          "qty": 4
+        }
+      ],
+      "color": "Белый / коралл",
+      "material": "Кожа, сетка",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p05",
+      "sku": "LX-1005",
+      "name": "Pastel Shadow",
+      "category": "women",
+      "collection": "new",
+      "gender": "women",
+      "price": 1250000,
+      "images": [
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "36",
+          "qty": 1
+        },
+        {
+          "size": "37",
+          "qty": 2
+        },
+        {
+          "size": "38",
+          "qty": 0
+        },
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 3
+        }
+      ],
+      "color": "Пастель",
+      "material": "Кожа",
+      "description": "Женская модель из новой коллекции. Изящный силуэт, комфортная посадка и премиальные материалы.",
+      "isNew": true
+    },
+    {
+      "id": "p06",
+      "sku": "LX-1006",
+      "name": "Derby Cognac",
+      "category": "classic",
+      "collection": "premium",
+      "gender": "men",
+      "price": 1890000,
+      "images": [
+        "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 4
+        },
+        {
+          "size": "40",
+          "qty": 2
+        },
+        {
+          "size": "41",
+          "qty": 2
+        },
+        {
+          "size": "42",
+          "qty": 2
+        },
+        {
+          "size": "43",
+          "qty": 2
+        },
+        {
+          "size": "44",
+          "qty": 3
+        },
+        {
+          "size": "45",
+          "qty": 0
+        }
+      ],
+      "color": "Коньяк",
+      "material": "Натуральная кожа",
+      "description": "Классическая пара ручной отделки. Кожаная подкладка, прошитая подошва и безупречная колодка — для деловых встреч, торжеств и особых случаев."
+    },
+    {
+      "id": "p07",
+      "sku": "LX-1007",
+      "name": "Double Monk Brown",
+      "category": "classic",
+      "collection": "premium",
+      "gender": "men",
+      "price": 2150000,
+      "images": [
+        "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 4
+        },
+        {
+          "size": "40",
+          "qty": 4
+        },
+        {
+          "size": "41",
+          "qty": 4
+        },
+        {
+          "size": "42",
+          "qty": 3
+        },
+        {
+          "size": "43",
+          "qty": 1
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 2
+        }
+      ],
+      "color": "Коричневый",
+      "material": "Натуральная кожа",
+      "description": "Классическая пара ручной отделки. Кожаная подкладка, прошитая подошва и безупречная колодка — для деловых встреч, торжеств и особых случаев.",
+      "isNew": true
+    },
+    {
+      "id": "p08",
+      "sku": "LX-1008",
+      "name": "Shadow Knit Black",
+      "category": "sneakers",
+      "collection": "sport",
+      "gender": "men",
+      "price": 1190000,
+      "images": [
+        "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 3
+        },
+        {
+          "size": "40",
+          "qty": 4
+        },
+        {
+          "size": "41",
+          "qty": 0
+        },
+        {
+          "size": "42",
+          "qty": 3
+        },
+        {
+          "size": "43",
+          "qty": 1
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 3
+        }
+      ],
+      "color": "Чёрный",
+      "material": "Текстиль",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p09",
+      "sku": "LX-1009",
+      "name": "Chunky Pastel Runner",
+      "category": "women",
+      "collection": "new",
+      "gender": "women",
+      "price": 1490000,
+      "images": [
+        "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "36",
+          "qty": 1
+        },
+        {
+          "size": "37",
+          "qty": 4
+        },
+        {
+          "size": "38",
+          "qty": 1
+        },
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 3
+        }
+      ],
+      "color": "Мульти",
+      "material": "Кожа, замша",
+      "description": "Женская модель из новой коллекции. Изящный силуэт, комфортная посадка и премиальные материалы.",
+      "isNew": true
+    },
+    {
+      "id": "p10",
+      "sku": "LX-1010",
+      "name": "Heritage Boot Espresso",
+      "category": "boots",
+      "collection": "premium",
+      "gender": "men",
+      "price": 2390000,
+      "images": [
+        "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=900&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 4
+        },
+        {
+          "size": "40",
+          "qty": 4
+        },
+        {
+          "size": "41",
+          "qty": 0
+        },
+        {
+          "size": "42",
+          "qty": 0
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 0
+        },
+        {
+          "size": "45",
+          "qty": 4
+        }
+      ],
+      "color": "Эспрессо",
+      "material": "Натуральная кожа, мех",
+      "description": "Тёплые ботинки для холодного сезона. Натуральные материалы, устойчивая рифлёная подошва и надёжная шнуровка.",
+      "isNew": true
+    },
+    {
+      "id": "p11",
+      "sku": "LX-1011",
+      "name": "Skate Low Burgundy",
+      "category": "sneakers",
+      "collection": "street",
+      "gender": "unisex",
+      "price": 890000,
+      "images": [
+        "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "37",
+          "qty": 1
+        },
+        {
+          "size": "38",
+          "qty": 1
+        },
+        {
+          "size": "39",
+          "qty": 2
+        },
+        {
+          "size": "40",
+          "qty": 0
+        },
+        {
+          "size": "41",
+          "qty": 1
+        },
+        {
+          "size": "42",
+          "qty": 4
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 0
+        }
+      ],
+      "color": "Бордо",
+      "material": "Канвас",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p12",
+      "sku": "LX-1012",
+      "name": "Minimal Leather Sand",
+      "category": "sneakers",
+      "collection": "premium",
+      "gender": "men",
+      "price": 1590000,
+      "images": [
+        "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 1
+        },
+        {
+          "size": "42",
+          "qty": 2
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 2
+        }
+      ],
+      "color": "Белый / песок",
+      "material": "Натуральная кожа, замша",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом.",
+      "isNew": true
+    },
+    {
+      "id": "p13",
+      "sku": "LX-1013",
+      "name": "Floral Stiletto",
+      "category": "women",
+      "collection": "premium",
+      "gender": "women",
+      "price": 1690000,
+      "images": [
+        "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "36",
+          "qty": 3
+        },
+        {
+          "size": "37",
+          "qty": 2
+        },
+        {
+          "size": "38",
+          "qty": 1
+        },
+        {
+          "size": "39",
+          "qty": 1
+        },
+        {
+          "size": "40",
+          "qty": 0
+        }
+      ],
+      "color": "Цветочный принт",
+      "material": "Текстиль, кожа",
+      "description": "Женская модель из новой коллекции. Изящный силуэт, комфортная посадка и премиальные материалы.",
+      "oldPrice": 1990000
+    },
+    {
+      "id": "p14",
+      "sku": "LX-1014",
+      "name": "Runner Flyknit Olive",
+      "category": "sneakers",
+      "collection": "sport",
+      "gender": "men",
+      "price": 1290000,
+      "images": [
+        "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 2
+        },
+        {
+          "size": "42",
+          "qty": 3
+        },
+        {
+          "size": "43",
+          "qty": 3
+        },
+        {
+          "size": "44",
+          "qty": 1
+        },
+        {
+          "size": "45",
+          "qty": 3
+        }
+      ],
+      "color": "Оливковый",
+      "material": "Текстиль Flyknit",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p15",
+      "sku": "LX-1015",
+      "name": "Suede Pump Navy",
+      "category": "women",
+      "collection": "premium",
+      "gender": "women",
+      "price": 1490000,
+      "images": [
+        "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "36",
+          "qty": 4
+        },
+        {
+          "size": "37",
+          "qty": 2
+        },
+        {
+          "size": "38",
+          "qty": 4
+        },
+        {
+          "size": "39",
+          "qty": 2
+        },
+        {
+          "size": "40",
+          "qty": 4
+        }
+      ],
+      "color": "Тёмно-синий",
+      "material": "Замша",
+      "description": "Женская модель из новой коллекции. Изящный силуэт, комфортная посадка и премиальные материалы."
+    },
+    {
+      "id": "p16",
+      "sku": "LX-1016",
+      "name": "Air Max Rose",
+      "category": "women",
+      "collection": "sport",
+      "gender": "women",
+      "price": 1390000,
+      "images": [
+        "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "36",
+          "qty": 3
+        },
+        {
+          "size": "37",
+          "qty": 3
+        },
+        {
+          "size": "38",
+          "qty": 2
+        },
+        {
+          "size": "39",
+          "qty": 0
+        },
+        {
+          "size": "40",
+          "qty": 3
+        }
+      ],
+      "color": "Белый / розовый",
+      "material": "Кожа, сетка",
+      "description": "Женская модель из новой коллекции. Изящный силуэт, комфортная посадка и премиальные материалы."
+    },
+    {
+      "id": "p17",
+      "sku": "LX-1017",
+      "name": "Trail Boot Olive",
+      "category": "boots",
+      "collection": "street",
+      "gender": "men",
+      "price": 1990000,
+      "images": [
+        "https://images.unsplash.com/photo-1605812860427-4024433a70fd?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 2
+        },
+        {
+          "size": "40",
+          "qty": 4
+        },
+        {
+          "size": "41",
+          "qty": 2
+        },
+        {
+          "size": "42",
+          "qty": 3
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 3
+        }
+      ],
+      "color": "Хаки",
+      "material": "Нубук",
+      "description": "Тёплые ботинки для холодного сезона. Натуральные материалы, устойчивая рифлёная подошва и надёжная шнуровка.",
+      "oldPrice": 2290000
+    },
+    {
+      "id": "p18",
+      "sku": "LX-1018",
+      "name": "High Top White",
+      "category": "sneakers",
+      "collection": "street",
+      "gender": "unisex",
+      "price": 1550000,
+      "images": [
+        "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "37",
+          "qty": 0
+        },
+        {
+          "size": "38",
+          "qty": 1
+        },
+        {
+          "size": "39",
+          "qty": 3
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 3
+        },
+        {
+          "size": "42",
+          "qty": 0
+        },
+        {
+          "size": "43",
+          "qty": 1
+        },
+        {
+          "size": "44",
+          "qty": 1
+        }
+      ],
+      "color": "Белый",
+      "material": "Натуральная кожа",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом."
+    },
+    {
+      "id": "p19",
+      "sku": "LX-1019",
+      "name": "Brogue Emerald Suede",
+      "category": "classic",
+      "collection": "new",
+      "gender": "men",
+      "price": 1790000,
+      "images": [
+        "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 2
+        },
+        {
+          "size": "40",
+          "qty": 3
+        },
+        {
+          "size": "41",
+          "qty": 4
+        },
+        {
+          "size": "42",
+          "qty": 0
+        },
+        {
+          "size": "43",
+          "qty": 2
+        },
+        {
+          "size": "44",
+          "qty": 3
+        },
+        {
+          "size": "45",
+          "qty": 0
+        }
+      ],
+      "color": "Изумрудный",
+      "material": "Замша",
+      "description": "Классическая пара ручной отделки. Кожаная подкладка, прошитая подошва и безупречная колодка — для деловых встреч, торжеств и особых случаев.",
+      "isNew": true
+    },
+    {
+      "id": "p20",
+      "sku": "LX-1020",
+      "name": "Canvas High Split",
+      "category": "sneakers",
+      "collection": "street",
+      "gender": "unisex",
+      "price": 790000,
+      "images": [
+        "https://images.unsplash.com/photo-1617606002806-94e279c22567?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "37",
+          "qty": 0
+        },
+        {
+          "size": "38",
+          "qty": 2
+        },
+        {
+          "size": "39",
+          "qty": 3
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 0
+        },
+        {
+          "size": "42",
+          "qty": 2
+        },
+        {
+          "size": "43",
+          "qty": 4
+        },
+        {
+          "size": "44",
+          "qty": 0
+        }
+      ],
+      "color": "Красный / чёрный",
+      "material": "Канвас",
+      "description": "Лёгкая и удобная пара на каждый день. Амортизирующая подошва, мягкая стелька и аккуратная отделка — выглядит дорого с любым образом.",
+      "oldPrice": 990000
+    },
+    {
+      "id": "p21",
+      "sku": "LX-1021",
+      "name": "Oxford Tan",
+      "category": "classic",
+      "collection": "premium",
+      "gender": "men",
+      "price": 1950000,
+      "images": [
+        "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?w=900&q=80&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=900&q=80&auto=format&fit=crop"
+      ],
+      "sizes": [
+        {
+          "size": "39",
+          "qty": 1
+        },
+        {
+          "size": "40",
+          "qty": 1
+        },
+        {
+          "size": "41",
+          "qty": 0
+        },
+        {
+          "size": "42",
+          "qty": 4
+        },
+        {
+          "size": "43",
+          "qty": 0
+        },
+        {
+          "size": "44",
+          "qty": 2
+        },
+        {
+          "size": "45",
+          "qty": 1
+        }
+      ],
+      "color": "Рыжий",
+      "material": "Натуральная кожа",
+      "description": "Классическая пара ручной отделки. Кожаная подкладка, прошитая подошва и безупречная колодка — для деловых встреч, торжеств и особых случаев."
+    }
+  ]
+}

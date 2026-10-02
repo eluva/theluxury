@@ -83,6 +83,7 @@ img {
   padding-top: var(--safe-top);
   padding-bottom: calc(var(--tabbar-h) + var(--safe-bottom) + 12px);
   position: relative;
+  overflow-x: clip;
 }
 
 .app--product {
@@ -650,12 +651,7 @@ img {
 
 .boutique__actions {
   display: grid;
-  grid-template-columns: 1fr auto;
   gap: 10px;
-}
-
-.boutique__actions .btn {
-  padding: 0 18px;
 }
 
 .boutique__ig {

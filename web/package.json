@@ -5,7 +5,8 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview --host",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:pages": "node -e \"require('fs').rmSync('../assets',{recursive:true,force:true})\" && vite build --outDir .. --emptyOutDir false"
   },
   "dependencies": {
     "react": "^19.3.0",

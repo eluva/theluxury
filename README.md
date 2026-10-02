@@ -88,3 +88,14 @@ cd server && npm start                       # отдаёт и API, и web/dist 
 | Демо-товары | [web/src/data/catalog.json](web/src/data/catalog.json) |
 
 > Фото в демо-каталоге взяты с Unsplash как заглушки. После подключения BILLZ будут показываться фото из карточек BILLZ.
+
+## Демо на GitHub Pages
+
+Демо-версия (без сервера, заказы имитируются): https://eluva.github.io/theluxury/
+
+Pages отдаёт корень ветки `main`, поэтому собранные файлы (`index.html`, `assets/`, `favicon.svg`, `.nojekyll`) лежат в корне. Обновить демо:
+
+```bash
+cd web && npm run build:pages
+git add -A && git commit -m "Update demo" && git push
+```
